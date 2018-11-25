@@ -5,7 +5,7 @@ CS 7641 - Machine Learning
 Project 4 
 
 Link to my project code on github:
-
+https://github.com/mikenimeng/galtech_ml/tree/master/p4
 
 A description of the MDPs used can be found in the analysis pdf
 This project used CMU's Reinforcement Learning Simulator.
